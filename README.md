@@ -8,3 +8,4 @@ https://github.com/YoshiRi/SIFT/blob/master/OriginalCode/sift.m
 
 
 https://www.researchgate.net/post/How_can_I_check_keypoint_localization_step_in_SIFT_works
+https://medium.com/@russmislam/implementing-sift-in-python-a-complete-guide-part-1-306a99b50aa5
