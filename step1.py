@@ -1,4 +1,4 @@
-from keypoints import Keypoint
+from keypoint import Keypoint
 
 #Extract the SIFT features from the training and the test images
 
