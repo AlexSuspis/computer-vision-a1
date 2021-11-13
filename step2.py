@@ -6,7 +6,7 @@
 
 #cluster the descriptors
 
-def clusterDescriptors(descriptors):
+def clusterDescriptors(descriptors[], k):
 
     # cluster feature descriptors into k groups
     #implement kmeans algorithm - kmeans is an algorithm used for usnupervised learning
@@ -29,16 +29,16 @@ def clusterDescriptors(descriptors):
 
 
 
-def generate_dictionary(descriptors, n):
+def generate_dictionary(descriptors[]):
 
+# 500 means that we will have 500 clusters 
 int dictionarySize = 500
 # extract descriptors using sift function from step 1
-descriptors = sift(img)
+
+descriptors []  = sift(img)
 
 # build the dictionary
-dictionary = clusterDescriptors(descritors)
+dictionary = clusterDescriptors(descritors, dictionarySize)
 
 
 return dictionary
-
-
