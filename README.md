@@ -19,6 +19,9 @@ https://medium.com/@russmislam/implementing-sift-in-python-a-complete-guide-part
 https://medium.com/@russmislam/implementing-sift-in-python-a-complete-guide-part-2-c4350274be2b
 
 For the implementation team for Step 2 I founds this link very useful:
+
 https://medium.com/@aybukeyalcinerr/bag-of-visual-words-bovw-db9500331b2f
+
 https://towardsdatascience.com/bag-of-visual-words-in-a-nutshell-9ceea97ce0fb
+
 https://www.analyticsvidhya.com/blog/2021/04/k-means-clustering-simplified-in-python/
