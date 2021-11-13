@@ -18,7 +18,7 @@ https://medium.com/@russmislam/implementing-sift-in-python-a-complete-guide-part
 
 https://medium.com/@russmislam/implementing-sift-in-python-a-complete-guide-part-2-c4350274be2b
 
-For the implementation team for Step 2 I founds this link very useful:
+Helpful links for Step 2:
 
 https://medium.com/@aybukeyalcinerr/bag-of-visual-words-bovw-db9500331b2f
 
